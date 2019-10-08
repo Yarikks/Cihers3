@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Cryptology3\Cryptology3\bin\Debug\Cryptology3.exe.config
+C:\Users\HP\source\repos\Cryptology3\Cryptology3\bin\Debug\Cryptology3.exe
+C:\Users\HP\source\repos\Cryptology3\Cryptology3\bin\Debug\Cryptology3.pdb
+C:\Users\HP\source\repos\Cryptology3\Cryptology3\obj\Debug\Cryptology3.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Cryptology3\Cryptology3\obj\Debug\Cryptology3.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Cryptology3\Cryptology3\obj\Debug\Cryptology3.exe
+C:\Users\HP\source\repos\Cryptology3\Cryptology3\obj\Debug\Cryptology3.pdb
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab3_ciphers\Cryptology3\Cryptology3\bin\Debug\Cryptology3.exe.config
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab3_ciphers\Cryptology3\Cryptology3\bin\Debug\Cryptology3.exe
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab3_ciphers\Cryptology3\Cryptology3\bin\Debug\Cryptology3.pdb
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab3_ciphers\Cryptology3\Cryptology3\obj\Debug\Cryptology3.csprojAssemblyReference.cache
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab3_ciphers\Cryptology3\Cryptology3\obj\Debug\Cryptology3.csproj.CoreCompileInputs.cache
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab3_ciphers\Cryptology3\Cryptology3\obj\Debug\Cryptology3.exe
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab3_ciphers\Cryptology3\Cryptology3\obj\Debug\Cryptology3.pdb

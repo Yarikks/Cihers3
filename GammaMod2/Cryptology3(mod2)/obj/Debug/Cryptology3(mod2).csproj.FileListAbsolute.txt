@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Cryptology3(mod2)\Cryptology3(mod2)\bin\Debug\Cryptology3(mod2).exe.config
+C:\Users\HP\source\repos\Cryptology3(mod2)\Cryptology3(mod2)\bin\Debug\Cryptology3(mod2).exe
+C:\Users\HP\source\repos\Cryptology3(mod2)\Cryptology3(mod2)\bin\Debug\Cryptology3(mod2).pdb
+C:\Users\HP\source\repos\Cryptology3(mod2)\Cryptology3(mod2)\obj\Debug\Cryptology3(mod2).csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Cryptology3(mod2)\Cryptology3(mod2)\obj\Debug\Cryptology3(mod2).csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Cryptology3(mod2)\Cryptology3(mod2)\obj\Debug\Cryptology3(mod2).exe
+C:\Users\HP\source\repos\Cryptology3(mod2)\Cryptology3(mod2)\obj\Debug\Cryptology3(mod2).pdb
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab3_ciphers\Cryptology3(mod2)\Cryptology3(mod2)\bin\Debug\Cryptology3(mod2).exe.config
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab3_ciphers\Cryptology3(mod2)\Cryptology3(mod2)\bin\Debug\Cryptology3(mod2).exe
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab3_ciphers\Cryptology3(mod2)\Cryptology3(mod2)\bin\Debug\Cryptology3(mod2).pdb
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab3_ciphers\Cryptology3(mod2)\Cryptology3(mod2)\obj\Debug\Cryptology3(mod2).csprojAssemblyReference.cache
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab3_ciphers\Cryptology3(mod2)\Cryptology3(mod2)\obj\Debug\Cryptology3(mod2).csproj.CoreCompileInputs.cache
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab3_ciphers\Cryptology3(mod2)\Cryptology3(mod2)\obj\Debug\Cryptology3(mod2).exe
+C:\Users\Yorik\Desktop\пари\3 курс\1 семестр\Захист програм i даних\lab3_ciphers\Cryptology3(mod2)\Cryptology3(mod2)\obj\Debug\Cryptology3(mod2).pdb
